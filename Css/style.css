@@ -1,0 +1,46 @@
+
+#navbarSupportedContent a{
+    font-family: poppins;
+font-weight: 500;
+font-size: 15px;
+line-height: 200%;
+color: #353535;
+padding:18px 22px 5px 22px;
+font-weight: 15px;
+}
+
+
+#home{
+    border-bottom: 1px solid #353535;
+}
+
+.btnsend{
+  background-color: #FFCC00;
+  border-radius: 19px;
+  padding: 10px 20px;
+
+}
+
+
+
+
+.btndld{
+  border: 1px solid #000000;
+  border-radius: 19px;
+  padding: 10px 20px;
+}
+
+
+
+body{
+    font-family: poppins;
+}
+
+
+
+
+
+
+
+
+
